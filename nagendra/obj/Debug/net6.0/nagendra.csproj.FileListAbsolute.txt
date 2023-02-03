@@ -1,0 +1,15 @@
+E:\Projects_dotnet\Nagendra_project\nagendra\bin\Debug\net6.0\nagendra.exe
+E:\Projects_dotnet\Nagendra_project\nagendra\bin\Debug\net6.0\nagendra.deps.json
+E:\Projects_dotnet\Nagendra_project\nagendra\bin\Debug\net6.0\nagendra.runtimeconfig.json
+E:\Projects_dotnet\Nagendra_project\nagendra\bin\Debug\net6.0\nagendra.dll
+E:\Projects_dotnet\Nagendra_project\nagendra\bin\Debug\net6.0\nagendra.pdb
+E:\Projects_dotnet\Nagendra_project\nagendra\obj\Debug\net6.0\nagendra.csproj.AssemblyReference.cache
+E:\Projects_dotnet\Nagendra_project\nagendra\obj\Debug\net6.0\nagendra.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects_dotnet\Nagendra_project\nagendra\obj\Debug\net6.0\nagendra.AssemblyInfoInputs.cache
+E:\Projects_dotnet\Nagendra_project\nagendra\obj\Debug\net6.0\nagendra.AssemblyInfo.cs
+E:\Projects_dotnet\Nagendra_project\nagendra\obj\Debug\net6.0\nagendra.csproj.CoreCompileInputs.cache
+E:\Projects_dotnet\Nagendra_project\nagendra\obj\Debug\net6.0\nagendra.dll
+E:\Projects_dotnet\Nagendra_project\nagendra\obj\Debug\net6.0\refint\nagendra.dll
+E:\Projects_dotnet\Nagendra_project\nagendra\obj\Debug\net6.0\nagendra.pdb
+E:\Projects_dotnet\Nagendra_project\nagendra\obj\Debug\net6.0\nagendra.genruntimeconfig.cache
+E:\Projects_dotnet\Nagendra_project\nagendra\obj\Debug\net6.0\ref\nagendra.dll
