@@ -43,8 +43,9 @@ namespace Productdetails
                 Console.WriteLine(price);
                 int quantity=methodtogetquantity();
                 Console.WriteLine(quantity);
+                int rating=methodtogetrating();
                 var insertion=new Insertion();
-                insertion.Productinsert(productname,price,quantity);
+                insertion.Productinsert(productname,price,quantity,rating);
             }
             public static void Deleteproduct()
             {
@@ -107,6 +108,23 @@ namespace Productdetails
                 catch{
                     Console.WriteLine("quantity should be a number");
                     return methodtogetquantity();
+                }
+            }
+
+            public static Int32 methodtogetrating(){
+                Console.WriteLine("please enter valid rating");
+                try{
+                    int rating=Convert.ToInt32(Console.ReadLine());
+                    if(rating<=0 || rating>5){
+                        return methodtogetrating();
+                    }
+                    else{
+                        return rating;
+                    }
+                }
+                catch{
+                    Console.WriteLine("quantity should be a number");
+                    return methodtogetrating();
                 }
             }
         
